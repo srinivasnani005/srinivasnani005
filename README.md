@@ -16,85 +16,99 @@
 
 ---
 
-## 💻 Tech Stack Overview
+## 🚀 Tech Stack
 
-### 🎨 Frontend Development
-- React.js (TypeScript), Redux, React Query
-- Tailwind CSS, MUI, HTML5, CSS3
+### 🎨 Frontend
+<div align="left">
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-### 🛠️ Backend Development
-- NestJS, Node.js, Express.js
-- GraphQL, REST APIs
+### 🛠 Backend
+<div align="left">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/-REST-FF9800?style=for-the-badge&logo=json&logoColor=white" />
+</div>
 
-### 🗃️ Databases
-- MongoDB (Mongoose), MySQL, PostgreSQL, Firebase
+### 🗃 Databases
+<div align="left">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
 
-### 🧠 AI & Machine Learning
-- Python, FastAPI, FAISS, scikit-learn, NumPy, Vector Embeddings
+### 🤖 AI/ML
+<div align="left">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-FAISS-4E4E4E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
 
-### ⚙️ DevOps & Infra
-- Docker, Kubernetes, NGINX, Vercel
-- AWS S3, GCP, BunnyCDN, GitHub Actions
-
-### 🔐 Authentication & Security
-- OAuth 2.0, JWT, RBAC, Secure REST & GraphQL Endpoints
+### ⚙️ DevOps
+<div align="left">
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
-## 📁 Notable Projects
+## 🔥 Highlights
 
-- 🧑‍💼 **Truupe Platform** — B2B Admin CRM with React, NestJS, and MongoDB
-- 🎓 **Anurag University Portal** — CMS for student lifecycle interaction
-- 🏘️ **Realty CRM + AI Chatbot** — Real-time chatbot + CRM powered by Gemini API
-- 🛒 **E-Commerce Microservices** — Containerized backend with CI/CD pipelines
-- 🔐 **Multi-Tenant Auth System** — Secure login & role-based JWT + OAuth system
+- Built & deployed 12+ full-stack applications
+- Scaled real-time APIs for 100K+ concurrent users
+- Engineered secure, multi-tenant systems
+- Delivered Gemini-powered AI chatbot with CRM
+- Automated CI/CD with Kubernetes + Docker
 
 ---
 
-## 🛠️ Recent Repositories
+## 📁 Latest Repositories
 
 <div align="center">
-
 <a href="https://github.com/Dpr-admin/chatbot_backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dpr-admin&repo=chatbot_backend&theme=radical" />
 </a>
 <a href="https://github.com/teachora/teachora_backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=teachora&repo=teachora_backend&theme=radical" />
 </a>
-
 </div>
 
 ---
 
-## 🧠 Engineering Strengths
+## 📈 GitHub Activity
 
-- 🧩 Built & deployed **12+ full-stack applications**
-- 📈 Optimized APIs handling **100K+ concurrent users**
-- 🚀 Orchestrated production-level deployments with **Kubernetes + Load Balancing**
-- 🔁 Designed scalable, multi-user **chat + bot systems** with real-time communication
-
----
-
-## 📊 GitHub Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/srinivasnani005/srinivasnani005/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)
 
 ---
 
 ## 🧾 Working On (Top Languages)
-
 ```ts
-TypeScript    : 85%
-JavaScript    : 8%
-HTML          : 5%
-CSS           : 2%
-Total         : 100%
+TypeScript : 85%
+JavaScript : 8%
+HTML       : 5%
+CSS        : 2%
+Total      : 100%
 ```
 
 ---
 
 <div align="center">
 
-✨ *Let’s create something impactful. Reach out for collaboration or freelance work!* ✨
+✨ Let’s collaborate and build something powerful. Open to freelance & full-time opportunities! ✨
 
 </div>
