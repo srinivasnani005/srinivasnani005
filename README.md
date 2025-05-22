@@ -5,14 +5,17 @@
 
 <div align="center">
 
-# 👨‍💻 Pragada N D S Sai Srinivas
+# <span style="color:#0078d4;">👨‍💻 Pragada N D S Sai Srinivas</span>
 
-Senior Full Stack Developer | MERN Stack Expert  
-Currently @ **Dezign Shark**  
+### Senior Full Stack Developer | MERN Stack Expert  
+#### Currently @ <span style="color:#E535AB; font-weight: 700;">Dezign Shark</span>
 
+---
+
+<!-- Contact Badges -->
 <a href="mailto:srinivasnani005@gmail.com" target="_blank" rel="noopener">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
+</a>
 <a href="tel:+919346427292" target="_blank" rel="noopener">
   <img alt="Phone" src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -23,23 +26,24 @@ Currently @ **Dezign Shark**
 
 ## 🚀 About Me
 
-Passionate **Senior Full Stack Developer** with 5+ years of expertise building scalable web applications using the MERN stack. I deliver clean, modular, and maintainable code, architecting cloud-ready solutions with CI/CD pipelines. Skilled in:
+I am a **Senior Full Stack Developer** with 5+ years of proven expertise delivering highly scalable and maintainable web applications using the **MERN stack** and modern cloud technologies. I’m passionate about clean architecture, CI/CD pipelines, and crafting optimal user experiences.
 
-- React.js (TypeScript), Redux, MUI, Tailwind CSS  
-- Node.js, NestJS, Express, GraphQL, REST APIs  
-- MongoDB, MySQL, PostgreSQL  
-- Docker, Kubernetes, AWS, GitHub Actions  
-- Real-time apps with Socket.IO, WebSockets  
-- AI/ML integration & chatbot development  
+My core strengths include:
+
+- **Frontend:** React.js (TypeScript), Redux, MUI, Tailwind CSS  
+- **Backend:** Node.js, NestJS, Express, GraphQL, REST APIs  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions  
+- **Real-time & AI:** Socket.IO, WebSockets, Chatbot & AI Integration  
 
 ---
 
 ## 💼 Professional Experience
 
-| Role                                | Company         | Duration      | Stack & Key Highlights                                |
-|------------------------------------|-----------------|---------------|-------------------------------------------------------|
-| **Senior Full Stack Developer**    | Dezign Shark    | Aug 2024 - Present | MERN, AWS, Docker, Kubernetes, CI/CD pipelines        |
-| **Full Stack Developer**            | CampX           | Feb 2024 - Jun 2024 | React.js, NestJS, MongoDB, GraphQL                    |
+| Role                          | Company      | Duration           | Key Tech & Highlights                           |
+|-------------------------------|--------------|--------------------|------------------------------------------------|
+| **Senior Full Stack Developer** | Dezign Shark | Aug 2024 - Present | MERN, AWS, Docker, Kubernetes, CI/CD pipelines |
+| **Full Stack Developer**        | CampX        | Feb 2024 - Jun 2024 | React.js, NestJS, MongoDB, GraphQL             |
 
 ---
 
@@ -71,43 +75,53 @@ Passionate **Senior Full Stack Developer** with 5+ years of expertise building s
 
 ## 📂 Recent Projects & Deployments
 
-| Project                           | Repo Link                                                   | Deployment Status                                               |
-|----------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| **AI Chatbot Backend**            | [Chatbot Backend](https://github.com/Dpr-admin/chatbot_backend) | ![Deploy Status](https://img.shields.io/badge/deployed-✅-green) |
-| **TeachOra Backend**              | [TeachOra Backend](https://github.com/teachora/teachora_backend) | ![Deploy Status](https://img.shields.io/badge/deployed-✅-green) |
+| Project             | Repo Link                                                                 | Deployment Status                          |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------|
+| **AI Chatbot Backend** | [Chatbot Backend](https://github.com/Dpr-admin/chatbot_backend)           | ![Deployed](https://img.shields.io/badge/deployed-✅-green) |
+| **TeachOra Backend**   | [TeachOra Backend](https://github.com/teachora/teachora_backend)           | ![Deployed](https://img.shields.io/badge/deployed-✅-green) |
 
 ---
 
-## 🎯 GitHub Contributions Snake
+## 📈 GitHub Yearly Contributions
 
 <div align="center">
-  ![GitHub Snake](https://<your-github-username>.github.io/<your-repo-name>/github-snake.svg)
+
+<!-- You can generate your GitHub contribution graph SVG using GitHub Readme Stats or the official GitHub API -->
+
+<img
+  alt="GitHub Contributions Calendar"
+  src="https://github.com/srinivasnani005.png?size=250"
+  style="border-radius: 12px;"
+/>
+
+<p style="font-size: 12px; color: #666; margin-top: 8px;">
+  *(Hover over the image on GitHub profile to see details)*
+</p>
+
 </div>
 
 ---
 
 ## 📫 Get in Touch
 
-| Platform   | Details                                |
-|------------|---------------------------------------|
-| 📧 Email   | srinivasnani005@gmail.com              |
-| 📞 Phone   | +91 9346427292 (Freelance & Contact)  |
-| 💼 LinkedIn| [linkedin.com/in/pragadasrinivas](https://linkedin.com/in/pragadasrinivas) |
+| Platform         | Details                                                         |
+|------------------|-----------------------------------------------------------------|
+| 📧 **Email**       | srinivasnani005@gmail.com                                        |
+| 📞 **Phone**       | +91 9346427292 (Freelance & Contact)                            |
+| 💼 **LinkedIn**    | [linkedin.com/in/pragadasrinivas](https://linkedin.com/in/pragadasrinivas) |
 
 ---
 
 ## ⚡ Fun Fact
 
-> “Great code is its own best documentation.” — Steve McConnell
+> “Great code is its own best documentation.” — *Steve McConnell*
 
 ---
-
-<!-- Optional GitHub Stats for extra sparkle -->
 
 <div align="center">
 
 ![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinivasnani005&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasnani005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasnani005&layout=compact&theme=radical)
 
 </div>
