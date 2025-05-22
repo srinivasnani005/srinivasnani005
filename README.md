@@ -16,6 +16,16 @@
 
 ---
 
+### 🧾 Working On (Top Languages)
+
+🟦 **TypeScript**  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 85%  
+🟨 **JavaScript**  ▓▓▓░░░░░░░░░░░░░░░░   8%  
+🐍 **Python**      ▓░░░░░░░░░░░░░░░░░   5%  
+🟥 **HTML**        ░░░░░░░░░░░░░░░░░░   3%  
+🟦 **CSS**         ░░░░░░░░░░░░░░░░░░   1%
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
@@ -90,29 +100,8 @@
 
 ## 📈 GitHub Activity
 
-![Snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
 
----
-
-## 🧾 Working On (Top Languages)
-<div align="left">
-
-<b>TypeScript</b>  
-<img src="https://progress-bar.dev/85/?title=TypeScript&width=500&color=3178C6" />
-
-<b>JavaScript</b>  
-<img src="https://progress-bar.dev/8/?title=JavaScript&width=500&color=f7df1e" />
-
-<b>Python</b>  
-<img src="https://progress-bar.dev/5/?title=Python&width=500&color=3776AB" />
-
-<b>HTML</b>  
-<img src="https://progress-bar.dev/3/?title=HTML&width=500&color=E34F26" />
-
-<b>CSS</b>  
-<img src="https://progress-bar.dev/1/?title=CSS&width=500&color=1572B6" />
-
-</div>
 
 ---
 
