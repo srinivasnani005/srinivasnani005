@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=230&section=header&text=Pragada%20N%20D%20S%20Sai%20Srinivas&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
 
-<h3>🚀 Full Stack Developer | AI Engineer | Open to Freelance Projects</h3>
+<h3> Senior Full Stack Developer | MERN | Open to Freelance Projects</h3>
 
 📧 **srinivasnani005@gmail.com** &nbsp;&nbsp;&nbsp;📞 **+91 9346427292**  
 
@@ -69,7 +69,7 @@
 
 ## 🔥 Highlights
 
-- Built & deployed 12+ full-stack applications
+- Built & deployed 20+ full-stack applications
 - Scaled real-time APIs for 100K+ concurrent users
 - Engineered secure, multi-tenant systems
 - Delivered Gemini-powered AI chatbot with CRM
@@ -77,16 +77,14 @@
 
 ---
 
-## 📁 Latest Repositories
+## 📁 Latest Repositories & Deployments
 
-<div align="center">
-<a href="https://github.com/Dpr-admin/chatbot_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dpr-admin&repo=chatbot_backend&theme=radical" />
-</a>
-<a href="https://github.com/teachora/teachora_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teachora&repo=teachora_backend&theme=radical" />
-</a>
-</div>
+| Project             | Repo Link                                                                 | Deployment Status                          |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------|
+| **AI Chatbot Backend** | [Chatbot Backend](https://github.com/Dpr-admin/chatbot_backend)           | ![Deployed](https://img.shields.io/badge/deployed-✅-green) |
+| **TeachOra Backend**   | [TeachOra Backend](https://github.com/teachora/teachora_backend)           | ![Deployed](https://img.shields.io/badge/deployed-✅-green) |
+
+---
 
 ---
 
@@ -97,13 +95,24 @@
 ---
 
 ## 🧾 Working On (Top Languages)
-```ts
-TypeScript : 85%
-JavaScript : 8%
-HTML       : 5%
-CSS        : 2%
-Total      : 100%
-```
+<div align="left">
+
+<b>TypeScript</b>  
+<img src="https://progress-bar.dev/85/?title=TypeScript&width=500&color=3178C6" />
+
+<b>JavaScript</b>  
+<img src="https://progress-bar.dev/8/?title=JavaScript&width=500&color=f7df1e" />
+
+<b>Python</b>  
+<img src="https://progress-bar.dev/5/?title=Python&width=500&color=3776AB" />
+
+<b>HTML</b>  
+<img src="https://progress-bar.dev/3/?title=HTML&width=500&color=E34F26" />
+
+<b>CSS</b>  
+<img src="https://progress-bar.dev/1/?title=CSS&width=500&color=1572B6" />
+
+</div>
 
 ---
 
