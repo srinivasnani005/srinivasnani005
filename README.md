@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=230&section=header&text=Pragada%20N%20D%20S%20Sai%20Srinivas&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
 
-<h3>🚀 Full Stack Developer | AI Integrator | Open to Freelance Projects</h3>
+<h3>🚀 Full Stack Developer | AI Engineer | Open to Freelance Projects</h3>
 
 📧 **srinivasnani005@gmail.com** &nbsp;&nbsp;&nbsp;📞 **+91 9346427292**  
 
@@ -16,86 +16,85 @@
 
 ---
 
-## 🧠 Technical Proficiency
+## 💻 Tech Stack Overview
 
-### 🔷 Frontend
-- React.js (TypeScript), MUI, Tailwind CSS, Redux, React Query
+### 🎨 Frontend Development
+- React.js (TypeScript), Redux, React Query
+- Tailwind CSS, MUI, HTML5, CSS3
 
-### 🔷 Backend
-- NestJS, Node.js, Express.js, GraphQL, REST APIs
+### 🛠️ Backend Development
+- NestJS, Node.js, Express.js
+- GraphQL, REST APIs
 
-### 🔷 Databases
+### 🗃️ Databases
 - MongoDB (Mongoose), MySQL, PostgreSQL, Firebase
 
-### 🔷 AI/ML
+### 🧠 AI & Machine Learning
 - Python, FastAPI, FAISS, scikit-learn, NumPy, Vector Embeddings
 
-### 🔷 DevOps & Infra
-- Docker, Kubernetes, CI/CD Pipelines, Nginx, AWS S3, BunnyCDN
+### ⚙️ DevOps & Infra
+- Docker, Kubernetes, NGINX, Vercel
+- AWS S3, GCP, BunnyCDN, GitHub Actions
 
-### 🔷 Security & Auth
-- OAuth 2.0, JWT, RBAC, Payment Gateway Integrations
-
----
-
-## 💼 Professional Experience
-
-- 🚀 Built and deployed **12+ full-stack applications**
-- 📊 APIs optimized for **100K+ concurrent users**
-- ⚙️ Kubernetes + NGINX production orchestration
-- 🧠 Architected **multi-user, scalable chatbot systems** with real-time sockets & Gemini API
+### 🔐 Authentication & Security
+- OAuth 2.0, JWT, RBAC, Secure REST & GraphQL Endpoints
 
 ---
 
 ## 📁 Notable Projects
 
-- 🧑‍💼 **Truupe Platform** — B2B Admin CRM with NestJS + React
-- 🎓 **Anurag University Portal** — CMS for student lifecycle management
-- 🏘️ **Realty CRM + Chatbot** — Real-time chatbot + lead CRM with Gemini AI
-- 🛒 **E-Commerce Microservices** — Scalable Dockerized modules with CI/CD
-- 🔐 **Auth Systems** — Role-based, multi-tenant authentication (JWT + OAuth)
+- 🧑‍💼 **Truupe Platform** — B2B Admin CRM with React, NestJS, and MongoDB
+- 🎓 **Anurag University Portal** — CMS for student lifecycle interaction
+- 🏘️ **Realty CRM + AI Chatbot** — Real-time chatbot + CRM powered by Gemini API
+- 🛒 **E-Commerce Microservices** — Containerized backend with CI/CD pipelines
+- 🔐 **Multi-Tenant Auth System** — Secure login & role-based JWT + OAuth system
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Recent Repositories
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,materialui,redux,graphql,html,css" />
-<br>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,mongodb,mysql,php,fastapi,python,express" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,vercel,git,github" />
-<br>
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,bash,linux" />
+<a href="https://github.com/Dpr-admin/chatbot_backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dpr-admin&repo=chatbot_backend&theme=radical" />
+</a>
+<a href="https://github.com/teachora/teachora_backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teachora&repo=teachora_backend&theme=radical" />
+</a>
 
 </div>
 
 ---
 
-## 🧾 Latest Repositories
+## 🧠 Engineering Strengths
 
-- 🧠 [Real Estate Chatbot Backend (NestJS + Gemini)](https://github.com/Dpr-admin/chatbot_backend)
-- 📚 [Teachora LMS Backend (Microservice)](https://github.com/teachora/teachora_backend)
+- 🧩 Built & deployed **12+ full-stack applications**
+- 📈 Optimized APIs handling **100K+ concurrent users**
+- 🚀 Orchestrated production-level deployments with **Kubernetes + Load Balancing**
+- 🔁 Designed scalable, multi-user **chat + bot systems** with real-time communication
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contribution Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasnani005&layout=compact&langs_count=8&hide=html,css&theme=radical&custom_title=Languages+I+Use&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Snake animation](https://raw.githubusercontent.com/srinivasnani005/srinivasnani005/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧾 Working On (Top Languages)
 
 ```ts
-// Estimated Breakdown (manually configured)
-TypeScript      92%
-Python          88%
-PHP             75%
-JavaScript      42%
-Other           23%
+TypeScript    : 85%
+JavaScript    : 8%
+HTML          : 5%
+CSS           : 2%
+Total         : 100%
 ```
 
 ---
 
 <div align="center">
 
-⭐ *Let's build futuristic solutions together. Reach out for freelance projects or collaborations!* ⭐
+✨ *Let’s create something impactful. Reach out for collaboration or freelance work!* ✨
 
 </div>
